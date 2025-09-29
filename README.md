@@ -20,7 +20,7 @@ The dataset contained one table with 113,036 records of customer orders, includi
 - Product attributes (product category, product sub-category).
 ## Methodology
 #### Data Cleaning (Excel):
-- Removed duplicates and standardized formats.
+- Removed duplicates and standardized formats and column names.
 - Created calculated fields: Profit Margin %, Markup %.
 - Grouped customers into new age brackets: G1 (<25), G2 (25–34), G3 (35–50), G4 (50+).
 
@@ -35,7 +35,11 @@ The dataset contained one table with 113,036 records of customer orders, includi
 ## Executive Summary
 ## Key Findings
 #### Sales & Revenue Trends:
+- Total Revenue: 84.8 million, Total Profit: 32 million.
+- Sales show strong seasonality, peaking in December.
 #### Product Performance:
+- Top Categories by Revenue: Bikes (~72%), Accessories (~18%), Clothing (~10%).
+- Top Categories by Profit Margin: Accessories (~59%), Clothing (~34%), Bikes (~33%).
 #### Customer Demographics:
 #### Geographic Insights:
 #### Profitability Analysis:
