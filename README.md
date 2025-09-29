@@ -10,7 +10,7 @@ The bike store operates in a competitive retail environment in six different cou
 Excel file that contain dataset, cleaning process and pivot tables can be downloaded here.
 
 An interactive PowerBi dashboard can be downloaded here.
-## Data Structure & Initial Checks
+## Data Structure
 The dataset contained one table with 113,036 records of customer orders, including:
 
 - Order details (date, product name, quantity, unit price, unit cost).  
@@ -18,7 +18,21 @@ The dataset contained one table with 113,036 records of customer orders, includi
 - Customer demographics (age, age group, gender).  
 - Geographic data (country, state).  
 - Product attributes (product category, product sub-category).
+## Methodology
+### Data Cleaning (Excel):
+- Removed duplicates and standardized formats.
+- Created calculated fields: Profit Margin %, Markup %.
+- Grouped customers into new age brackets: <25, 25–34, 35–50, 50+.
 
+### Exploratory Analysis (Excel PivotTables):
+- Initial pivot tables to understand sales by category, region, and demographics.
+- Charts to identify seasonal and geographic trends.
+
+### Interactive Dashboard (Power BI):
+
+- KPIs: Total Revenue, Total Profit, Profit Margin %, Orders Count, Average Order Value, Unit Sold.
+- Visuals: sales trends, top products, demographic and geographic insights.
+- Slicers for dynamic filtering by date, country, gender, age group, and products.
 ## Executive Summary
 ## Key Findings
 ### 1. Sales & Revenue Trends:
