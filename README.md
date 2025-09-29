@@ -35,18 +35,21 @@ The dataset contained one table with 113,036 records of customer orders, includi
 ## Executive Summary
 ## Key Findings
 #### Sales & Revenue Trends:
-- Total Revenue: 84.8 million, Total Profit: 32 million.
+- Total Revenue: $84.8 million, Total Profit: $32.0 million.
 - Sales show strong seasonality, peaking in December.
 #### Product Performance:
-- Top Categories by Revenue: Bikes (72%), Accessories (18%), Clothing (10%).
-- Top Categories by Profit Margin: Accessories (59%), Clothing (34%), Bikes (33%).
+- Top Categories by Revenue: Bikes (72.4%), Accessories (17.7%), Clothing (9.9%).
+- Top Categories by Profit Margin: Accessories (58.6%), Clothing (33.9%), Bikes (33.2%).
 #### Customer Demographics:
-G2 (25–34) and G3 (35–50) age groups contributes 76% of revenue and have the highest average order value. But G4 (50+) age group has highest profit margins.
+- G2 (25–34) and G3 (35–50) age groups contribute 75.8% of revenue and have the highest average order value.
+- G4 (50+) age group has lowest revenue, but highest profit margin (40.2%).
 #### Geographic Insights:
-- Top Countris by Revenue: United States (33%) and Australia (25%).
-- Top Countris by Profit Margin: Canada (47%) and United Kingdom (41.5%).
-- Australia shows high sales but low margins (32%) due to higher costs.
+- Top Countries by Revenue: United States (32.8%) and Australia (25.0%).
+- Top Countries by Profit Margin: Canada (46.8%) and United Kingdom (41.5%).
+- Australia generates high sales but suffers from lower margins (31.8%) due to higher costs or high competition.
 #### Profitability Analysis:
+- Accessories are the highest-margin category, ideal for upselling.
+- Some high-volume products underperform in margins may be this is pricing issue.
 ## Recommendations
 - Increase inventory and targeted marketing campaigns before peak seasons to maximize sales.
 - Push high-margin accessories via upselling and bundles.
