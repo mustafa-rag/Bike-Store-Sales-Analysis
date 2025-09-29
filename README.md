@@ -19,8 +19,6 @@ Analyzed **113K** bike store orders across **6 countries** using Excel & PowerBI
 - **USA** & **Australia** lead in **sales**; **Canada** & **UK** lead in **margins**.
 - **Recommendations** include boosting stock before peak seasons, upselling high-margin accessories, optimizing pricing, and focusing on the most profitable markets.
 
-
-    
 ![](/SalesDashboardImage.jpg)
 
 ## Data Structure
