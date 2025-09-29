@@ -1,6 +1,11 @@
 # Bike Store Sales Analysis
 ## Project Background
-The purpose of this project was to analyze sales data from a bike store to identify revenue drivers, customer behavior patterns, and profitability insights. By leveraging Excel for data preparation and Power BI for interactive visualization, the goal was to provide management with actionable recommendations to improve sales performance, optimize pricing, and target marketing efforts effectively.
+The bike store operates in a competitive retail environment in six different countries where customer preferences, seasonal demand, and product profitability directly affect business performance. With a wide range of products — including bicycles, accessories, Clothing and maintenance items — the management team needed a clearer understanding of:
+
+- Which products and categories drive the most sales and profit.  
+- How customer demographics (age, gender) influence purchasing behavior.  
+- Which geographic markets are most profitable.  
+- How seasonality impacts demand and revenue.  
 ## Data Structure & Initial Checks
 The dataset contained records of customer orders, including:
 
