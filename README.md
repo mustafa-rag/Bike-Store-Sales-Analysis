@@ -19,16 +19,16 @@ The dataset contained one table with 113,036 records of customer orders, includi
 - Geographic data (country, state).  
 - Product attributes (product category, product sub-category).
 ## Methodology
-#### Data Cleaning (Excel)
+#### Data Cleaning (Excel):
 - Removed duplicates and standardized formats.
 - Created calculated fields: Profit Margin %, Markup %.
 - Grouped customers into new age brackets: G1 (<25), G2 (25–34), G3 (35–50), G4 (50+).
 
-#### Exploratory Analysis (Excel PivotTables)
+#### Exploratory Analysis (Excel PivotTables):
 - Initial pivot tables to understand sales by category, region, and demographics.
 - Charts to identify seasonal and geographic trends.
 
-#### Interactive Dashboard (Power BI)
+#### Interactive Dashboard (Power BI):
 - KPIs: Total Revenue, Total Profit, Profit Margin %, Orders Count, Average Order Value, Unit Sold.
 - Visuals: sales trends, top products, demographic and geographic insights.
 - Slicers for dynamic filtering by date, country, gender, age group, and products.
