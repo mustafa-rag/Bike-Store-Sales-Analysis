@@ -10,6 +10,7 @@ The bike store operates in a competitive retail environment in six different cou
 Excel file (dataset, cleaning process, pivot tables) available here.
 
 Interactive PowerBI dashboard available here.
+## Executive Summary
 ## Data Structure
 The dataset contained one table with 113,036 records of customer orders, including:
 
@@ -32,7 +33,6 @@ The dataset contained one table with 113,036 records of customer orders, includi
 - KPIs: Total Revenue, Total Profit, Profit Margin %, Orders Count, Average Order Value, Unit Sold.
 - Visuals: sales trends, top products, demographic and geographic insights.
 - Slicers for dynamic filtering by date, country, gender, age group, and products.
-## Executive Summary
 ## Key Findings
 #### Sales & Revenue Trends:
 - Total **Revenue: $84.8M**, Total **Profit: $32.0M**.
