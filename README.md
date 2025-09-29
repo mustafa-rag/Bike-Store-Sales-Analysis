@@ -34,9 +34,9 @@ The dataset contained one table with 113,036 records of customer orders, includi
 - Slicers for dynamic filtering by date, country, gender, age group, and products.
 ## Executive Summary
 ## Key Findings
-### 1. Sales & Revenue Trends:
-### 2. Product Performance:
-### 3. Customer Demographics:
-### 4. Geographic Insights:
-### 5. Profitability Analysis:
+#### Sales & Revenue Trends:
+#### Product Performance:
+#### Customer Demographics:
+#### Geographic Insights:
+#### Profitability Analysis:
 ## Recommendations
