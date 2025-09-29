@@ -17,8 +17,8 @@ Analyzed **113K** bike store orders across **6 countries** using Excel & PowerBI
 - **Bikes** genrate **72.4%** of **sales** but **lower margins**; **Accessories** make **17.7%** of **sales**, but high margin **58.6%**.
 - Ages **25–50 years** drive **75.8%** of **revenue**; **50+ age group** delivers highest margins **40.2%**.
 - **USA** & **Australia** lead in **sales**; **Canada** & **UK** lead in **margins**.
-#### Actionable insights:
-Boost stock before seasonal peaks, upsell accessories, optimize pricing, and focus on profitable markets.
+#### Recommendations:
+  Boost stock before seasonal peaks, upsell accessories, optimize pricing, and focus on profitable markets.
 ## Data Structure
 The dataset contained one table with **113,036** records of customer orders, including:
 
