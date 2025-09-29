@@ -4,11 +4,11 @@ The purpose of this project was to analyze sales data from a bike store to ident
 ## Data Structure & Initial Checks
 The dataset contained records of customer orders, including:
 
-Order details (date, product, quantity, unit price, unit cost)  
-Financial metrics (revenue, profit, profit margin, markup)  
-Customer demographics (age, age group, gender)  
-Geographic data (country, state)  
-Product attributes (product name, category)
+- Order details (date, product name, quantity, unit price, unit cost).  
+- Financial metrics (revenue, cost, profit, profit margin, markup).  
+- Customer demographics (age, age group, gender).  
+- Geographic data (country, state).  
+- Product attributes (product category, product sub-category).
 
 ## Executive Summary
 ## Key Findings
