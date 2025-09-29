@@ -55,5 +55,6 @@ The dataset contained one table with 113,036 records of customer orders, includi
 - **Product Bundling:** Upsell high-margin accessories (58.6% margin) with bike sales.
 - **Pricing Strategy:** Re-evaluate pricing/supplier contracts for low-margin but high-sales products.
 - **Customer Targeting:** Focus digital campaigns on 25–50 age group with premium offerings.
-- **Geographic Optimization:** - Invest in high-margin markets (Canada, UK).
-                               - Address cost challenges in Australia to lift margins.
+- **Geographic Optimization:**
+                                - Invest in high-margin markets (Canada, UK).
+                                - Address cost challenges in Australia to lift margins.
