@@ -7,9 +7,9 @@ The bike store operates in a competitive retail environment in six different cou
 - Which geographic markets are most profitable.  
 - How seasonality impacts demand and revenue.
 
-Excel file that contain dataset, cleaning process and pivot tables can be downloaded here.
+Excel file (dataset, cleaning process, pivot tables) available here.
 
-An interactive PowerBi dashboard can be downloaded here.
+Interactive PowerBI dashboard available here.
 ## Data Structure
 The dataset contained one table with 113,036 records of customer orders, including:
 
