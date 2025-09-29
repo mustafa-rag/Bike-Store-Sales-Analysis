@@ -41,6 +41,13 @@ The dataset contained one table with 113,036 records of customer orders, includi
 - Top Categories by Revenue: Bikes (~72%), Accessories (~18%), Clothing (~10%).
 - Top Categories by Profit Margin: Accessories (~59%), Clothing (~34%), Bikes (~33%).
 #### Customer Demographics:
+G2 (25–34) and G3 (35–50) age groups contributes ~76% of revenue and have the highest average order value. But G4 (50+) age group has highest profit margins.
 #### Geographic Insights:
 #### Profitability Analysis:
 ## Recommendations
+- Increase inventory and targeted marketing campaigns before peak seasons to maximize sales.
+- Push high-margin accessories via upselling and bundles.
+- Re-evaluate pricing or supplier contracts for low-margin products.
+- 
+- Optimize supply chain and pricing in low-margin regions.
+- Align pricing with customer willingness to pay.
