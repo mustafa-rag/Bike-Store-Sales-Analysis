@@ -7,7 +7,7 @@ The bike store operates in a competitive retail environment in six different cou
 - Which geographic markets are most profitable.  
 - How seasonality impacts demand and revenue.  
 ## Data Structure & Initial Checks
-The dataset contained records of customer orders, including:
+The dataset contained one table with records of customer orders, including:
 
 - Order details (date, product name, quantity, unit price, unit cost).  
 - Financial metrics (revenue, cost, profit, profit margin, markup).  
