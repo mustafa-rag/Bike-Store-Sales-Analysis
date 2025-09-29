@@ -38,16 +38,19 @@ The dataset contained one table with 113,036 records of customer orders, includi
 - Total Revenue: 84.8 million, Total Profit: 32 million.
 - Sales show strong seasonality, peaking in December.
 #### Product Performance:
-- Top Categories by Revenue: Bikes (~72%), Accessories (~18%), Clothing (~10%).
-- Top Categories by Profit Margin: Accessories (~59%), Clothing (~34%), Bikes (~33%).
+- Top Categories by Revenue: Bikes (72%), Accessories (18%), Clothing (10%).
+- Top Categories by Profit Margin: Accessories (59%), Clothing (34%), Bikes (33%).
 #### Customer Demographics:
-G2 (25–34) and G3 (35–50) age groups contributes ~76% of revenue and have the highest average order value. But G4 (50+) age group has highest profit margins.
+G2 (25–34) and G3 (35–50) age groups contributes 76% of revenue and have the highest average order value. But G4 (50+) age group has highest profit margins.
 #### Geographic Insights:
+- Top Countris by Revenue: United States (33%) and Australia (25%).
+- Top Countris by Profit Margin: Canada (47%) and United Kingdom (41.5%).
+- Australia shows high sales but low margins (32%) due to higher costs.
 #### Profitability Analysis:
 ## Recommendations
 - Increase inventory and targeted marketing campaigns before peak seasons to maximize sales.
 - Push high-margin accessories via upselling and bundles.
 - Re-evaluate pricing or supplier contracts for low-margin products.
-- 
+- Launch digital campaigns targeting 25–50 years old customers with premium products.
 - Optimize supply chain and pricing in low-margin regions.
 - Align pricing with customer willingness to pay.
