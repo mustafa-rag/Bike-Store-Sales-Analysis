@@ -3,7 +3,7 @@
 The bike store operates in a competitive retail environment in six different countries where customer preferences, seasonal demand, and product profitability directly affect business performance. With a wide range of products — including bicycles, accessories, Clothing and maintenance items — the management team needed a clearer understanding of:
 
 - Which products and categories drive the most sales and profit.  
-- How customer demographics (age, gender) influence purchasing behavior.  
+- How customer demographics influence purchasing behavior.  
 - Which geographic markets are most profitable.  
 - How seasonality impacts demand and revenue.
 
@@ -35,7 +35,7 @@ The dataset contained one table with 113,036 records of customer orders, includi
 ## Executive Summary
 ## Key Findings
 #### Sales & Revenue Trends:
-- Total Revenue: $84.8 million, Total Profit: $32.0 million.
+- Total **Revenue: $84.8M**, Total **Profit: $32.0M**.
 - Sales show strong seasonality, peaking in December.
 #### Product Performance:
 - Top Categories by Revenue: Bikes (72.4%), Accessories (17.7%), Clothing (9.9%).
@@ -51,9 +51,9 @@ The dataset contained one table with 113,036 records of customer orders, includi
 - Accessories are the highest-margin category, ideal for upselling.
 - Some high-volume products underperform in margins may be this is pricing issue.
 ## Recommendations
-- Increase inventory and targeted marketing campaigns before peak seasons to maximize sales.
-- Push high-margin accessories via upselling and bundles.
-- Re-evaluate pricing or supplier contracts for low-margin products.
-- Launch digital campaigns targeting 25–50 years old customers with premium products.
-- Optimize supply chain and pricing in low-margin regions.
-- Align pricing with customer willingness to pay.
+- **Seasonality:** Increase inventory and targeted marketing before December to maximize sales.
+- **Product Bundling:** Upsell high-margin accessories (58.6% margin) with bike sales.
+- **Pricing Strategy:** Re-evaluate pricing/supplier contracts for low-margin but high-sales products.
+- **Customer Targeting:** Focus digital campaigns on 25–50 age group with premium offerings.
+- **Geographic Optimization:** - Invest in high-margin markets (Canada, UK).
+                               - Address cost challenges in Australia to lift margins.
