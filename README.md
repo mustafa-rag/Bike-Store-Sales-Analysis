@@ -11,8 +11,16 @@ Excel file (dataset, cleaning process, pivot tables) available here.
 
 Interactive PowerBI dashboard available here.
 ## Executive Summary
+Analyzed **113K** bike store orders across **6 countries** using Excel & PowerBI to uncover sales, profitability, and customer insights. Using Excel for data cleaning and exploratory analysis, and PowerBI for interactive dashboard, the study delivers actionable recommendations to improve decision-making.
+#### Key Highlights:
+- **$84.8M revenue** and **$32.0M profit**; sales peak in **December**.
+- **Bikes** genrate **72.4%** of **sales** but **lower margins**; **Accessories** make **17.7%** of **sales**, but high margin **58.6%**.
+- Ages **25–50 years** drive **75.8%** of **revenue**; **50+ age group** delivers highest margins **40.2%**.
+- **USA** & **Australia** lead in **sales**; **Canada** & **UK** lead in **margins**.
+#### Actionable insights:
+Boost stock before seasonal peaks, upsell accessories, optimize pricing, and focus on profitable markets.
 ## Data Structure
-The dataset contained one table with 113,036 records of customer orders, including:
+The dataset contained one table with **113,036** records of customer orders, including:
 
 - Order details (date, product name, quantity, unit price, unit cost).  
 - Financial metrics (revenue, cost, profit, profit margin, markup).  
