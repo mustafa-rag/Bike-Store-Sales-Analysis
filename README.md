@@ -5,7 +5,11 @@ The bike store operates in a competitive retail environment in six different cou
 - Which products and categories drive the most sales and profit.  
 - How customer demographics (age, gender) influence purchasing behavior.  
 - Which geographic markets are most profitable.  
-- How seasonality impacts demand and revenue.  
+- How seasonality impacts demand and revenue.
+
+Excel file that contain dataset, cleaning process and pivot tables can be downloaded here.
+
+An interactive PowerBi dashboard can be downloaded here.
 ## Data Structure & Initial Checks
 The dataset contained one table with records of customer orders, including:
 
