@@ -11,7 +11,7 @@ Excel file that contain dataset, cleaning process and pivot tables can be downlo
 
 An interactive PowerBi dashboard can be downloaded here.
 ## Data Structure & Initial Checks
-The dataset contained one table with records of customer orders, including:
+The dataset contained one table with 113,036 records of customer orders, including:
 
 - Order details (date, product name, quantity, unit price, unit cost).  
 - Financial metrics (revenue, cost, profit, profit margin, markup).  
