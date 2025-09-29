@@ -18,6 +18,7 @@ Analyzed **113K** bike store orders across **6 countries** using Excel & PowerBI
 - Ages **25–50 years** drive **75.8%** of **revenue**; **50+ age group** delivers highest margins **40.2%**.
 - **USA** & **Australia** lead in **sales**; **Canada** & **UK** lead in **margins**.
 - **Recommendations** include boosting stock before peak seasons, upselling high-margin accessories, optimizing pricing, and focusing on the most profitable markets.
+![](/SalesDashboardImage.jpg)
 ## Data Structure
 The dataset contained one table with **113,036** records of customer orders, including:
 
