@@ -7,9 +7,9 @@ The bike store operates in a competitive retail environment in six different cou
 - Which geographic markets are most profitable.  
 - How seasonality impacts demand and revenue.
 
-[*Excel file (dataset, cleaning process, pivot tables) available here.*](https://github.com/mustafa-rag/Bike-Store-Sales-Analysis/raw/refs/heads/main/BikeSales.xlsx)
+[*Excel file (dataset, cleaning process, pivot tables) available here.*](https://github.com/mustafamragab/Bike-Store-Sales-Analysis/raw/refs/heads/main/BikeSales.xlsx)
 
-[*Interactive PowerBI dashboard available here.*](https://github.com/mustafa-rag/Bike-Store-Sales-Analysis/raw/refs/heads/main/BikeSalesReport.pbix)
+[*Interactive PowerBI dashboard available here.*](https://github.com/mustafamragab/Bike-Store-Sales-Analysis/raw/refs/heads/main/BikeSalesReport.pbix)
 ## Executive Summary
 Analyzed **113K** bike store orders across **6 countries** using Excel & PowerBI to uncover sales, profitability, and customer insights. Using Excel for data cleaning and exploratory analysis, and PowerBI for interactive dashboard, the study delivers actionable recommendations to improve decision-making.
 #### Key Highlights:
